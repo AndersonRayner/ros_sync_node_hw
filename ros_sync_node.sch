@@ -365,4 +365,136 @@ F 3 "~" H 650 7650 50  0001 C CNN
 	1    650  7650
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 61EFB493
+P 650 6550
+F 0 "H5" H 750 6596 50  0000 L CNN
+F 1 "MountingHole" H 750 6505 50  0000 L CNN
+F 2 "other:OSHTab" H 650 6550 50  0001 C CNN
+F 3 "~" H 650 6550 50  0001 C CNN
+	1    650  6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 61EFDB40
+P 650 6350
+F 0 "H8" H 750 6396 50  0000 L CNN
+F 1 "MountingHole" H 750 6305 50  0000 L CNN
+F 2 "other:OSHTab" H 650 6350 50  0001 C CNN
+F 3 "~" H 650 6350 50  0001 C CNN
+	1    650  6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 61EFEC63
+P 650 6150
+F 0 "H7" H 750 6196 50  0000 L CNN
+F 1 "MountingHole" H 750 6105 50  0000 L CNN
+F 2 "other:OSHTab" H 650 6150 50  0001 C CNN
+F 3 "~" H 650 6150 50  0001 C CNN
+	1    650  6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 61EFFCCB
+P 850 6150
+F 0 "H6" H 950 6196 50  0000 L CNN
+F 1 "MountingHole" H 950 6105 50  0000 L CNN
+F 2 "other:OSHTab" H 850 6150 50  0001 C CNN
+F 3 "~" H 850 6150 50  0001 C CNN
+	1    850  6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 61F02CCF
+P 850 6350
+F 0 "H9" H 950 6396 50  0000 L CNN
+F 1 "MountingHole" H 950 6305 50  0000 L CNN
+F 2 "other:OSHTab" H 850 6350 50  0001 C CNN
+F 3 "~" H 850 6350 50  0001 C CNN
+	1    850  6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 61F03E2A
+P 850 6550
+F 0 "H10" H 950 6596 50  0000 L CNN
+F 1 "MountingHole" H 950 6505 50  0000 L CNN
+F 2 "other:OSHTab" H 850 6550 50  0001 C CNN
+F 3 "~" H 850 6550 50  0001 C CNN
+	1    850  6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 61F04FC7
+P 1050 6150
+F 0 "H11" H 1150 6196 50  0000 L CNN
+F 1 "MountingHole" H 1150 6105 50  0000 L CNN
+F 2 "other:OSHTab" H 1050 6150 50  0001 C CNN
+F 3 "~" H 1050 6150 50  0001 C CNN
+	1    1050 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 61F060F0
+P 1050 6350
+F 0 "H12" H 1150 6396 50  0000 L CNN
+F 1 "MountingHole" H 1150 6305 50  0000 L CNN
+F 2 "other:OSHTab" H 1050 6350 50  0001 C CNN
+F 3 "~" H 1050 6350 50  0001 C CNN
+	1    1050 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 61F071DC
+P 1050 6550
+F 0 "H13" H 1150 6596 50  0000 L CNN
+F 1 "MountingHole" H 1150 6505 50  0000 L CNN
+F 2 "other:OSHTab" H 1050 6550 50  0001 C CNN
+F 3 "~" H 1050 6550 50  0001 C CNN
+	1    1050 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 61F08383
+P 1250 6150
+F 0 "H14" H 1350 6196 50  0000 L CNN
+F 1 "MountingHole" H 1350 6105 50  0000 L CNN
+F 2 "other:OSHTab" H 1250 6150 50  0001 C CNN
+F 3 "~" H 1250 6150 50  0001 C CNN
+	1    1250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 61F093E8
+P 1250 6350
+F 0 "H15" H 1350 6396 50  0000 L CNN
+F 1 "MountingHole" H 1350 6305 50  0000 L CNN
+F 2 "other:OSHTab" H 1250 6350 50  0001 C CNN
+F 3 "~" H 1250 6350 50  0001 C CNN
+	1    1250 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 61F0A492
+P 1250 6550
+F 0 "H16" H 1350 6596 50  0000 L CNN
+F 1 "MountingHole" H 1350 6505 50  0000 L CNN
+F 2 "other:OSHTab" H 1250 6550 50  0001 C CNN
+F 3 "~" H 1250 6550 50  0001 C CNN
+	1    1250 6550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
