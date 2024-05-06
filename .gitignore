@@ -1,4 +1,5 @@
 fp-info-cache
 *-bak
+*.lck
 ros_sync_node-cache.lib
 outputs.zip
